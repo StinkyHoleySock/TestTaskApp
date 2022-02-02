@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TestTaskApp</string>
+    <string name="title">Приложение платное</string>
+    <string name="choose_rate">Выберите удобный для вас способ оплаты</string>
+
+    <string name="six_month_rate">6 месяцев</string>
+    <string name="six_month_desc">Пробный период три дня, бесплатная отмена</string>
+    <string name="six_month_price">1990 руб.</string>
+
+    <string name="one_month_rate">1 месяц</string>
+    <string name="one_month_desc">Ежемесячная подписка</string>
+    <string name="one_month_price">499 руб.</string>
+
+    <string name="forever_rate">Навсегда</string>
+    <string name="forever_desc">Один платеж</string>
+    <string name="forever_price">4990 руб.</string>
+
+    <string name="subscribe">Оформить подписку</string>
+    <string name="restore_purchases">Восстановить покупки</string>
+
+</resources>
